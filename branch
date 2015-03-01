@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words
+Branches are used to develop features that are isolated one from another.
+master is usually the default one.
